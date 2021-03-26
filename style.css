@@ -1,0 +1,123 @@
+.jumbo {
+  background-color: #e2edff;
+  padding-top: 30px;
+font-family: 'Quicksand', sans-serif;
+}
+.jumbo1 {
+  background-color: #e2edff;
+  padding-top: 30px;
+font-family: 'Quicksand', sans-serif;
+}
+.jumbo1 h1 {
+  font-family: 'Anton', sans-serif;
+font-family: 'Bebas Neue', cursive;
+padding-top: 35px;
+text-shadow: 2px 2px #000000;
+}
+.jumbo1 p{
+  font-size: 0.9rem;
+  filter: blur(0px);
+  font-family: 'Quicksand', sans-serif;
+  text-shadow: 0.5px 0.5px #000000;
+  
+}
+.navbar-brand {
+  text-shadow: 2px 2px #000000;
+}
+.jumbo p{
+  font-size: 0.9rem;
+  filter: blur(0px);
+  font-family: 'Quicksand', sans-serif;
+  text-shadow: 2px 2px #000000;
+  
+}
+.jumbo h1 {
+  font-family: 'Anton', sans-serif;
+font-family: 'Bebas Neue', cursive;
+padding-top: 35px;
+text-shadow: 2px 2px #000000;
+}
+.jumbotron {
+  background-image: url('1.jpg');
+  background-size: cover;
+  
+}
+hr {
+  width: 200px;
+  border-top: 1px solid  ;
+  text-shadow: 0.5px 0.5px #000000;
+}
+#project {
+  background-color: #e2edff;
+  padding-top: 10px;
+  font-family: 'Quicksand', sans-serif;
+  text-shadow: 0.5px 0.5px #000000;
+}
+#project hr{
+  width: 150px;
+}
+#about {
+  font-family: 'Quicksand', sans-serif;
+  text-shadow: 0.5px 0.5px #000000;
+  margin-top: 30px;
+}
+#about hr{
+  width: 150px;
+}
+#contact hr{
+  width: 120px;
+  text-shadow: 0.5px 0.5px #000000;
+}
+#contact {
+  font-family: 'Quicksand', sans-serif;
+  text-shadow: 0.5px 0.5px #000000;
+}
+nav {
+  font-family: 'Quicksand', sans-serif;
+  text-shadow: 0.5px 0.5px #000000;
+}
+footer {
+  font-family: 'Quicksand', sans-serif;
+  text-shadow: 0.5px 0.5px #000000;
+}
+.cod {
+  height: 300px;
+}
+.pub {
+  height: 140px;
+}
+.caro {
+  margin-top: 30px;
+}
+.h4 {
+  text-align: center;
+}
+.yt {
+  width: 330;
+  height: 200;
+}
+.riko {
+  width: 80%;
+  
+}
+@media (min-width: 576px) { 
+  .jumbotron {
+    width: 100%;
+  }
+.cod {
+  height: 160px;
+}
+.jumbo p{
+  font-size: 20px;
+  
+}
+.pub {
+  height: 100px;
+}
+.yt {
+  width: 400px;
+  height: 270px;
+}
+}
+  
+
